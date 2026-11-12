@@ -36,3 +36,11 @@ h1 {
     line-height: 1.5;
     color: #475569;
 }
+
+footer {
+    margin-top: 40px;
+    padding-top: 16px;
+    border-top: 1px solid #cbd5e1;
+    color: #64748b;
+    font-size: 0.85rem;
+}
